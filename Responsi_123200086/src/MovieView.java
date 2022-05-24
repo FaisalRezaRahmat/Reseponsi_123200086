@@ -1,9 +1,5 @@
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -12,10 +8,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Orenji
- */
+
 public class MovieView extends JFrame {
     JLabel ljudul = new JLabel("Judul");
     JLabel lAlur = new JLabel("Alur");
